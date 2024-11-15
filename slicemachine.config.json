@@ -1,0 +1,6 @@
+{
+    "repositoryName": "colby",
+    "adapter": "@slicemachine/adapter-nuxt",
+    "libraries": ["./slices"],
+    "localSliceSimulatorURL": "http://localhost:3001/slice-simulator"
+}

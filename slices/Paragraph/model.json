@@ -1,0 +1,44 @@
+{
+  "id": "paragraph",
+  "type": "SharedSlice",
+  "name": "Paragraph",
+  "description": "Paragraph",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "content": {
+          "type": "Text",
+          "config": {
+            "label": "Content",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "paragraphWithLargeType",
+      "name": "Paragraph with Large Type",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "content": {
+          "type": "Text",
+          "config": {
+            "label": "Content",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
